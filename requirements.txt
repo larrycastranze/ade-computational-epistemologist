@@ -1,0 +1,6 @@
+google-generativeai
+numpy
+networkx
+pydantic
+typing-extensions
+python-dotenv
