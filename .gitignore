@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+# Python
+*.py[cod]
+*.pyo
+.Python
+virtualenv/
+ENV/
+env/
+venv/
+# IDE
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
